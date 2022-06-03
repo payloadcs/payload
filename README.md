@@ -4,7 +4,7 @@
 # BIO
 <p align="center">Developer at <a href="https://github.com/hyper-pics">hyper.pics</a>, System Admin at <a href="https://github.com/valor-mc">ValorMC</a>
 
-🔒 Cyber Security,  ☁️ Networking Administration,  🖥️ Cyber Threat Intelligence  </p>
+<p align="center"></a>🔒 Cyber Security,  ☁️ Networking Administration,  🖥️ Cyber Threat Intelligence</p>
   
 
 <p align="center">Contact me on Discord: <b>payload#1067</b></p>
