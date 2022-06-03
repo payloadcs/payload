@@ -19,7 +19,7 @@
 
 <p><strong>Starred Projects</strong><p>
 <ul>
-  <li>Some <a href="https://github.com/payloadcs/IPTables">IPtables</a>Deny's DDoS and Bruteforce attacks</li>
+  <li>Some <a href="https://github.com/payloadcs/IPTables">IPtables</a> Deny's DDoS and Bruteforce attacks</li>
 </ul>
 
 <h2 align="center">Skills</h2>
