@@ -14,7 +14,7 @@
 <ul>
   <li>System Administrator @ <a href="https://github.com/valor-mc">ValorMC</a></li>
   <li>Developer @ <a href="https://github.com/hyper-pics">hyper.pics</a></li>
-  <li>More information about me at <a href="https://payloadcs.me">payloadcs.me</li>
+  <li>More information about me at <a href="https://payloadcs.me">payloadcs.me</a></li>
 </ul>
 
 <p><strong>Starred Projects</strong><p>
