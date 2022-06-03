@@ -14,12 +14,12 @@
 <ul>
   <li>System Administrator @ <a href="https://github.com/valor-mc">ValorMC</a></li>
   <li>Developer @ <a href="https://github.com/hyper-pics">hyper.pics</a></li>
-  <li>More information about me at payloadcs.me</li>
+  <li>More information about me at <a href="https://payloadcs.me">payloadcs.me</li>
 </ul>
 
 <p><strong>Starred Projects</strong><p>
 <ul>
-  <li>Some <a href="https://github.com/payloadcs/IPTables">IPtables</a> deny's DDoS and Bruteforce attacks</li>
+  <li>Some <a href="https://github.com/payloadcs/IPTables">IPTables</a> deny's DDoS and Bruteforce attacks</li>
 </ul>
 
 <h2 align="center">Skills</h2>
